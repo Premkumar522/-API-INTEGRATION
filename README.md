@@ -13,3 +13,6 @@ Styling with CSS to give it a polished look
 Adding dynamic functionality using JavaScript
 Integrating the OpenWeather API for live weather updates
 By the end of our coding session, you'll have a fully functional Weather App and a solid foundation in HTML, CSS, and JavaScript. Perfect for kickstarting your coding journey or advancing your skills!
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/0c44dfca-6dfd-48d5-a86c-2cd14d4a40ee)
